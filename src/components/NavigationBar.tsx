@@ -15,12 +15,6 @@ export function NavigationBar() {
                 <Nav>
                     <Nav.Link href="/privacy">Privacy Policy</Nav.Link>
                 </Nav>
-                <Nav>
-                    <Nav.Link href="www.bing.com">Bing</Nav.Link>
-                </Nav>
-                <Nav>
-                    <Nav.Link href="www.netflix.com">Netflix</Nav.Link>
-                </Nav>
             </Navbar.Collapse>
         </Navbar >
     );
